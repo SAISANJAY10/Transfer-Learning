@@ -110,8 +110,7 @@ def train_model(model, train_loader, test_loader, epochs=10):
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-
-<img width="477" height="578" alt="image" src="https://github.com/user-attachments/assets/d1f9d6c0-cb5e-4f0b-94be-9552db532d55" />
+![img](<Screenshot 2026-03-16 105553.png>)
 
 ### Classification Report
 
